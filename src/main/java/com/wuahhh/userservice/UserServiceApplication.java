@@ -3,7 +3,6 @@ package com.wuahhh.userservice;
 import com.wuahhh.userservice.domain.OaUser;
 import com.wuahhh.userservice.domain.Role;
 import com.wuahhh.userservice.service.UserService;
-import org.apache.catalina.User;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
